@@ -31,4 +31,4 @@ InstallKit Pro is an independent third-party application and is not affiliated w
 
 ---
 
-**InstallKit Pro — Your installers, made simple.**
+**on a personal note: this app has taken a while and a lot of help has been needed, and i'm really hoping this works out for everyone using this app, and please let me know in the GitHub for any new features or bugs <3 - Slice**
