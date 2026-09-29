@@ -11,7 +11,6 @@ NEWEST RELEASE:
 * Use existing installers from `/Applications`
 * macOS installer support
 * Early Windows installer support
-* Simple, easy-to-use interface
 
 ### Coming Soon
 
