@@ -11,7 +11,7 @@ NEWEST RELEASE:
 * Use existing installers from `/Applications`
 * macOS installer support
 * Early Windows installer support
-* * Hardware Overview
+* Hardware Overview
 * Windows ISO downloads
 
 ### Coming Soon
